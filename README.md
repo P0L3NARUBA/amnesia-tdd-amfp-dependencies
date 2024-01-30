@@ -6,4 +6,7 @@ The Repository Owner of Amnesia: The Dark Descent has deleted the FBX SDK 2012 f
 
 You can compile the game successfully with these Depencendies, But in original amnesia repository the depencendies are broken so you cant compile the engine and game.
 
+You can go to this repository for fixed-clean Amnesia: The Dark Descent Source:
+<https://github.com/TiManGames/AmnesiaTheDarkDescent>
+
 You can find the fixed depencendies.zip [From Here](https://github.com/WH0LEWHALE/amnesia-tdd-depencendies/releases/tag/fixedones)
