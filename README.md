@@ -9,4 +9,7 @@ You can compile the game successfully with these Depencendies, But in original a
 You can go to this repository for fixed, clean and compiles more easy Amnesia: The Dark Descent Source Code:
 <https://github.com/TiManGames/AmnesiaTheDarkDescent>
 
+BACKUP OF THAT REPOSITORY:
+<https://github.com/Stathor/AmnesiaTheDarkDescent>
+
 You can find the fixed depencendies.zip [From Here](https://github.com/WH0LEWHALE/amnesia-tdd-depencendies/releases/tag/fixedones)
