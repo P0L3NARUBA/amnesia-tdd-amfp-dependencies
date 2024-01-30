@@ -12,4 +12,4 @@ You can go to this repository for fixed, clean and compiles more easy Amnesia: T
 BACKUP OF THAT REPOSITORY:
 <https://github.com/Stathor/AmnesiaTheDarkDescent>
 
-You can find the fixed dependencies.zip [From Here](https://github.com/WH0LEWHALE/amnesia-tdd-depencendies/releases/tag/fixedones)
+You can find the fixed dependencies.zip [From Here](https://github.com/WH0LEWHALE/amnesia-tdd-dependencies/releases/tag/fixedones)
