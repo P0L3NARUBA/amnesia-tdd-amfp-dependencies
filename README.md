@@ -6,4 +6,4 @@ The Repository Owner of Amnesia: The Dark Descent and A Machine For Pigs has del
 
 You can compile the game successfully with these Dependencies, But in original amnesia repositories the Dependencies are broken so you cant compile the engine and maybe even the game.
 
-**You can find the Dependencies from Releases!**
+**You can find the Dependencies from Releases!** https://github.com/WH0LEWHALE/amnesia-tdd-amfp-dependencies/releases
